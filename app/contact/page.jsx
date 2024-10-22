@@ -8,11 +8,11 @@ import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const info = [
-  {
-    icons: <FaPhoneAlt />,
-    title: 'Phone',
-    description: "(+62)85-717-204-048",
-  },
+  // {
+  //   icons: <FaPhoneAlt />,
+  //   title: 'Phone',
+  //   description: " ",
+  // },
   {
     icons: <FaEnvelope />,
     title: 'Email',
