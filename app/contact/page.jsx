@@ -21,7 +21,7 @@ const info = [
   {
     icons: <FaMapMarkerAlt />,
     title: 'Address',
-    description: 'Jalan Pengairan No.19,Bendungan Hilir, Jakarta Pusat.',
+    description: 'Jakarta Pusat.',
   },
 ];
 
