@@ -29,7 +29,7 @@ const services =[
   {
     num: '03',
     title: 'Software Development',
-    description:'Although I mainly do app developments I also study software development fundamentals (algorithm and basics). Below are my language preference.',
+    description:'Although I mainly do app developments, I also study software development fundamentals (algorithm, database, and basics). Below are my language preference.',
     icons: [<FaGolang key="1" />, <FaPython key="2" />, <TbBrandCpp key="3" />, <SiMysql key="4" />, <FaJava key="5" /> , <SiMongodb key="6"/>],
   },
   {
