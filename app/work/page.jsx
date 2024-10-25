@@ -145,6 +145,19 @@ const projects =[
     live:'',
     github: 'https://github.com/SebastianDion/JavaSmallPROJECTMid1',
   },
+  {
+    num: '09',
+   category: 'SoftWare Development',
+   title:'SebDrink',
+   description:'Using Go Lang, I created SebDrink. SebDrink is a simple command-line drink ordering system where users can order their favorite beverages, and admins can manage inventory.',
+   stack:  [
+     {name: 'GoLang'},
+
+   ],
+   image:'/SebDrink.png',
+   live:'',
+   github: 'https://github.com/SebastianDion/SebDrink',
+ },
 
 
 
