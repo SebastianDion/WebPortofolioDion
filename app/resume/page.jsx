@@ -12,8 +12,8 @@ const about = {
       fieldValue: "Sebastian Dion"
     },
     {
-      fieldName: "Phone",
-      fieldValue: "(+62)857-172-040-48"
+      fieldName: "Instagram",
+      fieldValue: "@Sebastiandion_"
     },
     {
       fieldName: "Semester",
