@@ -39,13 +39,13 @@ const Contact = () => {
     setFormData({ ...formData, [name]: value });
   };
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
     
-    const mailtoLink = `mailto:sebastian.dion02@gmail.com?subject=Contact Form Submission&body=Firstname: ${formData.firstname}%0ALastname: ${formData.lastname}%0AEmail: ${formData.email}%0APhone: ${formData.phone}%0AMessage: ${formData.message}`;
+  //   const mailtoLink = `mailto:sebastian.dion02@gmail.com?subject=Contact Form Submission&body=Firstname: ${formData.firstname}%0ALastname: ${formData.lastname}%0AEmail: ${formData.email}%0APhone: ${formData.phone}%0AMessage: ${formData.message}`;
     
-    window.location.href = mailtoLink;
-  };
+  //   window.location.href = mailtoLink;
+  // };
 
   return (
     <motion.section
