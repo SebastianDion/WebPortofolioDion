@@ -8,7 +8,7 @@ const social =[
     //Linksssss
     {icon: <FaGithub />, path:"https://github.com/SebastianDion"},
     {icon: <FaLinkedinIn/>, path:"https://www.linkedin.com/in/sebastian-dion-8834b8251/"},
-    {icon: <FaEnvelope />, path:"mailto:sebastian.dion02@gmail.com"},
+    // {icon: <FaEnvelope />, path:"mailto:sebastian.dion02@gmail.com"},
     {icon: <FaWhatsapp />, path:"https://wa.me/qr/WWVM4UCKFDKPC1"},
     {icon: <FaYoutube />, path:"https://www.youtube.com/@xxassassinzz9544"},
     {icon: <FaNewspaper />, path:"https://soft-chestnut-66c.notion.site/Seb-s-Blog-1194f82ca71e8011b36ce9efea061681"},

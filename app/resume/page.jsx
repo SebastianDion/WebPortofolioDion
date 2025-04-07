@@ -29,7 +29,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "sebastian.dion02@gmail.com"
+      fieldValue: "Closed for now"
     },
     {
       fieldName: "Language",
