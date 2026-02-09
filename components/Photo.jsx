@@ -17,8 +17,8 @@ const Photo = () => {
 
          }}}
         className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute">
-            <Image src="/photo.png" priority quality={100} fill alt="" 
-            className="object-contain"/>
+            <Image src="/photo.jpg" priority quality={100} fill alt="" 
+            className="object-cover object-center rounded-full"/>
         </motion.div>
         {/* Circles */}
         <motion.svg className="w-[300px] xl:w-[506px] h-[300px] xl:h-[506px]" 

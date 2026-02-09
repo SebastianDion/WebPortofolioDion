@@ -4,7 +4,7 @@
 
 import { RiFlutterFill, RiNotionFill } from "react-icons/ri"; 
 import { SiKotlin, SiTailwindcss, SiMysql, SiObsidian, SiNotepadplusplus, SiWebflow } from "react-icons/si"; 
-import { FaSwift, FaHtml5, FaCss3, FaReact, FaFigma,   FaPython, FaJava } from "react-icons/fa"; 
+import { FaSwift, FaHtml5, FaCss3, FaReact, FaFigma,   FaPython, FaJava, FaJs } from "react-icons/fa"; 
 import { FaGolang } from "react-icons/fa6";
 import { IoLogoJavascript } from "react-icons/io"; 
 import { TbBrandCpp } from "react-icons/tb";
@@ -17,8 +17,8 @@ const services =[
   {
     num: '01',
     title: 'Mobile Development',
-    description:'Because my major is Mobile Application & Technology, My many projects are mainly app development and below are my tools.',
-    icons:[<RiFlutterFill key="1" />, <SiKotlin key="2" />, <FaSwift key="3"/>, <FaUnity key="4"/> ],
+    description:'Proficient in building mobile applications using Flutter, Kotlin, Swift, and Unity. Experienced in creating cross-platform apps with a focus on performance and user experience.',
+    icons:[<RiFlutterFill key="1" />, <SiKotlin key="2" />, <FaSwift key="3"/>, <FaUnity key="4" />, <FaReact key="5" />],
   },
   {
     num: '02',
@@ -30,7 +30,7 @@ const services =[
     num: '03',
     title: 'Software Development',
     description:'Although I mainly do app developments, I also study software development fundamentals (algorithm, database, and basics). Below are my language preference.',
-    icons: [<FaGolang key="1" />, <FaPython key="2" />, <TbBrandCpp key="3" />, <SiMysql key="4" />, <FaJava key="5" /> , <SiMongodb key="6"/>],
+    icons: [ <FaJs key="1" />, <FaGolang key="2" />, <FaPython key="3" />, <TbBrandCpp key="4" />, <SiMysql key="5" />, <FaJava key="6" /> , <SiMongodb key="7"/>],
   },
   {
     num: '04',

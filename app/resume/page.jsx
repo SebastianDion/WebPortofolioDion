@@ -16,14 +16,6 @@ const about = {
       fieldValue: "@Sebastiandion_"
     },
     {
-      fieldName: "Semester",
-      fieldValue: "5th"
-    },
-    {
-      fieldName:"LINE",
-      fieldValue: "andimgone"
-    },
-    {
       fieldName: "Place of Origin",
       fieldValue: "Jakarta Pusat"
     },
@@ -33,7 +25,7 @@ const about = {
     },
     {
       fieldName: "Language",
-      fieldValue: "Indonesia, English, Japanese(Basic)"
+      fieldValue: "Indonesia and English"
     },
     {
       fieldName: "Major",
@@ -48,6 +40,12 @@ const experience = {
   title: 'My Experience',
   description: "Besides my education journey, I also worked and gained experience through working and voulenteers",
   items:[
+
+    {
+      company: "Adira Finance",
+      position: "Intern Software Engineer",
+      duration: "2025 - 2026",
+    },
     {
       company: "BINUS University",
       position: "Education Counselor",
@@ -56,18 +54,8 @@ const experience = {
     {
       company: "BINUS University",
       position: "Student",
-      duration: "2022 - Now",
+      duration: "2022 - 2026",
     },
-    {
-      company: "SMA Kolese Gonzaga",
-      position: "Gonzaga Festival PUBG Competition Committee",
-      duration: "2021 - 2021",
-    },
-    {
-      company: "SMP Regina Pacis",
-      position: "Band Member",
-      duration: "2017 - 2019",
-    }
   ]
 }
 
@@ -81,7 +69,7 @@ const education = {
     {
       institute:"Binus University" ,
       degree: "Mobile Application & Technology",
-      duration: "2022 - Now",
+      duration: "2022 - 2026",
     },
     {
       institute:"iSwift" ,

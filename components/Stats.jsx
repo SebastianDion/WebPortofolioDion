@@ -3,21 +3,21 @@ import CountUp from "react-countup";
 
 const stats =[
     {
-        num: 3,
-        text: ".34 GPA", 
+        num: 1,
+        text: "Year of Experience", 
     },
-    {
-    num: 5,
-    text: "th Semester", 
-},
-{
-    num: 9,
-    text: "Language & Frameworks", 
-},
-{
-    num: 10,
-    text: "Projects", 
-}
+//     {
+//     num: 4,
+//     text: "Years of Coding", 
+// },
+// {
+//     num: 2,
+//     text: "FrontEnd", 
+// },
+// {
+//     num: 6,
+//     text: "FullStack", 
+// }
 ]
 
 const Stats = () => {
@@ -34,7 +34,7 @@ const Stats = () => {
                
             })}
         </div>
-    </div>
+    </div> 
   </section>;
 };
 
