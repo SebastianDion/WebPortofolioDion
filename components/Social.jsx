@@ -11,7 +11,7 @@ const social =[
     // {icon: <FaEnvelope />, path:"mailto:sebastian.dion02@gmail.com"},
     {icon: <FaWhatsapp />, path:"https://wa.me/qr/WWVM4UCKFDKPC1"},
     {icon: <FaYoutube />, path:"https://www.youtube.com/@xxassassinzz9544"},
-    {icon: <FaNewspaper />, path:"https://soft-chestnut-66c.notion.site/Seb-s-Blog-1194f82ca71e8011b36ce9efea061681"},
+    // {icon: <FaNewspaper />, path:"https://soft-chestnut-66c.notion.site/Seb-s-Blog-1194f82ca71e8011b36ce9efea061681"},
     
     
 
