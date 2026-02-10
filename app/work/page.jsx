@@ -34,9 +34,9 @@ export default function EngineeringLogPage() {
             Logs
           </h2>
 
-          <nav className="flex flex-col gap-3 text-white/60 text-sm  bg-emerald-500/10 border border-emerald-400/20 rounded-[10px] p-4">
+          <nav className="hover:text-white cursor-pointer flex flex-col gap-3 text-white/60 text-sm  bg-emerald-500/10 border border-emerald-400/20 rounded-[10px] p-4">
             <a className="hover:text-white cursor-pointer">
-              Engineering Log
+              Engineering Log — Adira Finance
             </a>
           </nav>
         </aside>
