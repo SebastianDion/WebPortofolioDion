@@ -7,7 +7,7 @@ const links = [
     {name:'Home',
     path:'/',},
 
-    {name:'Experience',
+    {name:'Logs',
     path:'/work',},
 
     {name:'Skills & Tools',
